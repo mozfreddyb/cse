@@ -1,0 +1,25 @@
+{
+  "name": "cse",
+  "version": "1.0.0",
+  "description": "context-sensitive escaping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mozfreddyb/cse.git"
+  },
+  "keywords": [
+    "html5",
+    "security",
+    "javascript",
+    "xss"
+  ],
+  "author": "Frederik Braun",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/mozfreddyb/cse/issues"
+  },
+  "homepage": "https://github.com/mozfreddyb/cse#readme"
+}
